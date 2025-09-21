@@ -1,4 +1,4 @@
-# youtube-clone
+# Youtube Clone
 
 ## Demo
 
